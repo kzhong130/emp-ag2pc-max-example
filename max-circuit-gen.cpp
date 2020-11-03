@@ -12,6 +12,9 @@ void max(int n, vector<int> bid_vec) {
 
     for (int i = 0; i < n; ++i) {
         A[i] = Integer(int_size, bid_vec[i], ALICE);
+    }
+
+    for (int i = 0; i < n; ++i) {
         B[i] = Integer(int_size, bid_vec[i], BOB);
     }
 
