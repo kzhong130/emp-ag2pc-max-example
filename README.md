@@ -46,7 +46,7 @@
   B[2]: 6, A[0]+B[0]: 5, A[1]+B[1]: 7, A[2]+B[2]: 9`. 
 
 + However, the output from my side is `A[0]: 4, A[1]: 6, A[2]: 2, B[0]: 5, B[1]:
-  1, B[2]: 3, A[0]+B[0]: 5, A[1]+B[1]: 7, A[2]+B[2]: 9`.
+  1, B[2]: 3, A[0]+B[0]: 9, A[1]+B[1]: 7, A[2]+B[2]: 5`.
 
 ### Way I generate input for circuit
 <p>
